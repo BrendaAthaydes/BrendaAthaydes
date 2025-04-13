@@ -1,9 +1,26 @@
-Este projeto foi desenvolvido como parte do meu portfólio profissional, com o objetivo de apresentar o tipo de trabalho que ofereço como freelancer na área de fitness e bem-estar.
+Olá! Eu sou a Brenda 👋
 
-Criei um site moderno, responsivo e com foco em conversão — ideal para personal trainers que desejam ter uma presença online marcante. A página inclui seções estratégicas como apresentação pessoal, serviços oferecidos, calculadora de IMC interativa e agendamento direto via WhatsApp.
+Sou Web Designer freelancer, especializada na criação de sites modernos, funcionais e responsivos. Tenho como foco principal o design limpo, navegação simples e resultados que realmente refletem a identidade de cada cliente.
 
-O layout foi pensado para ser intuitivo, visualmente atrativo e adaptado a qualquer dispositivo, garantindo uma experiência fluída para o utilizador.
+Trabalho com HTML, CSS e JavaScript, com conhecimentos básicos de PHP e MySQL para projetos que precisam de funcionalidades mais completas.
 
-Tecnologias utilizadas: HTML5, CSS3 e JavaScript.
+Tenho experiência no desenvolvimento de páginas para diversos segmentos, com foco em pequenas empresas e profissionais autônomos que precisam de presença online.
 
-Este projeto representa o tipo de soluções que posso entregar a clientes que procuram um site leve, funcional e com personalidade.
+💼 Projetos em destaque:
+
+- [💪 Personal Academia](#) – site para personal trainer com calculadora de IMC e agendamento via WhatsApp  
+- [💇‍♀️ Salão de Beleza](#) – layout elegante e feminino, com foco em serviços e contacto rápido  
+- [💅 Unhas & Estética](#) – página para nail designer com galeria e integração com redes sociais  
+- [🍔 Hamburgueria Delivery](#) – menu digital e chamada para pedidos  
+- [⚖️ Escritório de Advocacia](#) – institucional moderno e com credibilidade  
+- [🧠 Psicóloga](#) – apresentação pessoal, agenda integrada e painel de marcações (projeto mais completo)
+
+> Os links serão adicionados à medida que os projetos forem sendo publicados no GitHub Pages.
+
+Contacto
+
+Se quiseres trabalhar comigo ou saber mais sobre os projetos:
+
+- Email: brendasathaydes@gmail.com  
+- WhatsApp: [Clique aqui para falar](https://wa.me/5534991488460)
+
