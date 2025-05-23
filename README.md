@@ -1,10 +1,10 @@
 # 👋 Olá! Eu sou a Brenda
 
-Sou **Web Designer freelancer** especializada na criação de sites modernos, responsivos e com design centrado na experiência do usuário.
+Sou **Web Designer freelancer**, especializada na criação de sites modernos, responsivos e com foco em usabilidade e identidade visual.
 
-Trabalho com **Framer** e outras ferramentas visuais no-code para transformar ideias em interfaces funcionais, leves e profissionais. Também possuo conhecimentos em **HTML, CSS e JavaScript**, com base em **Node.js**, o que me permite atuar com flexibilidade em projetos que exigem soluções mais personalizadas.
+Trabalho com **ferramentas no-code como o Framer**, que me permitem entregar resultados rápidos, funcionais e com design profissional — ideais para negócios digitais, portfólios e páginas de serviço.
 
-Tenho experiência com **pequenas empresas, criadores digitais e profissionais autônomos**, ajudando-os a fortalecer sua presença online com sites objetivos, estéticos e prontos para uso.
+Atendo principalmente **pequenas empresas, criadores de conteúdo e profissionais autônomos**, ajudando-os a se posicionar online de forma clara, elegante e estratégica.
 
 📍 Uberlândia - MG, Brasil  
 🎯 *"Transformo ideias simples em experiências digitais incríveis."*
@@ -22,11 +22,11 @@ Tenho experiência com **pequenas empresas, criadores digitais e profissionais a
 
 # 👋 Hello! I'm Brenda
 
-I'm a **freelance Web Designer** specialized in building modern, responsive websites focused on user experience and clean design.
+I'm a **freelance Web Designer**, focused on building modern, responsive websites with a clean design and strong user experience.
 
-I use **Framer** and no-code tools to turn ideas into functional, visually appealing digital products. I also have experience with **HTML, CSS and JavaScript**, along with basic **Node.js** knowledge, allowing me to contribute to more advanced or customized projects when needed.
+I work with **no-code tools like Framer**, which allow me to create and publish functional, elegant websites quickly — perfect for creators, digital professionals, and small businesses.
 
-I work mostly with **small businesses, digital creators and independent professionals** who want to establish a strong and effective online presence.
+My goal is to help clients **stand out online** with clarity, strategy, and visual impact.
 
 📍 Uberlândia - MG, Brazil  
 🎯 *"I turn simple ideas into amazing digital experiences."*
@@ -44,11 +44,11 @@ I work mostly with **small businesses, digital creators and independent professi
 
 # 👋 ¡Hola! Soy Brenda
 
-Soy **diseñadora web freelance**, especializada en la creación de sitios modernos, responsivos y centrados en la experiencia del usuario.
+Soy **diseñadora web freelance**, especializada en crear sitios modernos, responsivos y enfocados en la experiencia del usuario y una estética limpia.
 
-Trabajo con **Framer** y herramientas no-code para convertir ideas en interfaces funcionales y visualmente atractivas. También tengo conocimientos en **HTML, CSS y JavaScript**, y una base en **Node.js**, lo que me permite participar en proyectos más personalizados cuando es necesario.
+Utilizo **herramientas no-code como Framer**, que me permiten desarrollar sitios web funcionales y visualmente atractivos de forma ágil — ideales para marcas personales, pequeños negocios y profesionales digitales.
 
-Colaboro principalmente con **pequeñas empresas, creadores digitales y profesionales independientes** que desean destacar en el entorno digital con una presencia web auténtica y profesional.
+Mi enfoque está en ayudar a mis clientes a **destacar en línea con claridad y estilo**.
 
 📍 Uberlândia - MG, Brasil  
 🎯 *"Transformo ideas simples en experiencias digitales memorables."*
