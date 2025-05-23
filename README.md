@@ -1,63 +1,48 @@
-# 👋 Olá! Eu sou a Brenda
+# 🇧🇷 Sobre mim
 
-Sou **Web Designer freelancer**, especializada na criação de sites modernos, responsivos e com foco em usabilidade e identidade visual.
+Oi! Eu sou a Brenda.
 
-Trabalho com **ferramentas no-code como o Framer**, que me permitem entregar resultados rápidos, funcionais e com design profissional — ideais para negócios digitais, portfólios e páginas de serviço.
+Estudo Engenharia de Software, tenho experiência com desenvolvimento front-end e hoje trabalho como Web Designer.
 
-Atendo principalmente **pequenas empresas, criadores de conteúdo e profissionais autônomos**, ajudando-os a se posicionar online de forma clara, elegante e estratégica.
+Crio sites modernos, bonitos e responsivos usando ferramentas no-code como o Framer. Meu objetivo é entregar sites que sejam práticos, rápidos e com visual que combine com a identidade de cada cliente.
 
-📍 Uberlândia - MG, Brasil  
-🎯 *"Transformo ideias simples em experiências digitais incríveis."*
+Gosto de transformar ideias em páginas que funcionam e fazem sentido.
 
----
-
-## 📬 Contato
-
-- 📧 **brendasathaydes@gmail.com**  
-- 💬 [WhatsApp – Clique aqui para falar](https://wa.me/5534991488460)
-- 🌐 [LinkedIn – EM BREVE]  
-- 🌐 [Portfólio Framer – EM BREVE]
+📎 GitHub: [github.com/brendasathaydes](https://github.com/brendasathaydes)  
+📎 Framer: *(em breve)*  
+📎 LinkedIn: [linkedin.com/in/brendaathaydes](https://www.linkedin.com/in/brendaathaydes/)  
+📱 WhatsApp: [Clique aqui para conversar](https://wa.me/5534991488460)
 
 ---
 
-# 👋 Hello! I'm Brenda
+# 🇺🇸 About me
 
-I'm a **freelance Web Designer**, focused on building modern, responsive websites with a clean design and strong user experience.
+Hi! I'm Brenda.
 
-I work with **no-code tools like Framer**, which allow me to create and publish functional, elegant websites quickly — perfect for creators, digital professionals, and small businesses.
+I'm a Software Engineering student with experience in front-end development. Today, I work as a Web Designer.
 
-My goal is to help clients **stand out online** with clarity, strategy, and visual impact.
+I create modern, clean, and responsive websites using no-code tools like Framer. My goal is to deliver websites that are fast, easy to use, and match each client's style and needs.
 
-📍 Uberlândia - MG, Brazil  
-🎯 *"I turn simple ideas into amazing digital experiences."*
+I like turning ideas into clear and functional websites.
 
----
-
-## 📬 Contact
-
-- 📧 **brendasathaydes@gmail.com**  
-- 💬 [WhatsApp – Click here to chat](https://wa.me/5534991488460)
-- 🌐 [LinkedIn – COMING SOON]  
-- 🌐 [Framer Portfolio – COMING SOON]
+📎 GitHub: [github.com/brendasathaydes](https://github.com/brendasathaydes)  
+📎 Framer: *(coming soon)*  
+📎 LinkedIn: [linkedin.com/in/brendaathaydes](https://www.linkedin.com/in/brendaathaydes/)  
+📱 WhatsApp: [Click here to chat](https://wa.me/5534991488460)
 
 ---
 
-# 👋 ¡Hola! Soy Brenda
+# 🇪🇸 Sobre mí
 
-Soy **diseñadora web freelance**, especializada en crear sitios modernos, responsivos y enfocados en la experiencia del usuario y una estética limpia.
+¡Hola! Soy Brenda.
 
-Utilizo **herramientas no-code como Framer**, que me permiten desarrollar sitios web funcionales y visualmente atractivos de forma ágil — ideales para marcas personales, pequeños negocios y profesionales digitales.
+Estudio Ingeniería de Software y tengo experiencia en desarrollo front-end. Actualmente, trabajo como Diseñadora Web.
 
-Mi enfoque está en ayudar a mis clientes a **destacar en línea con claridad y estilo**.
+Creo sitios modernos, limpios y responsivos usando herramientas no-code como Framer. Mi objetivo es entregar páginas rápidas, prácticas y con un diseño que encaje con la identidad de cada cliente.
 
-📍 Uberlândia - MG, Brasil  
-🎯 *"Transformo ideas simples en experiencias digitales memorables."*
+Me gusta convertir ideas en sitios claros y funcionales.
 
----
-
-## 📬 Contacto
-
-- 📧 **brendasathaydes@gmail.com**  
-- 💬 [WhatsApp – Haz clic aquí para hablar](https://wa.me/5534991488460)
-- 🌐 [LinkedIn – PRÓXIMAMENTE]  
-- 🌐 [Portafolio Framer – PRÓXIMAMENTE]
+📎 GitHub: [github.com/brendasathaydes](https://github.com/brendasathaydes)  
+📎 Framer: *(próximamente)*  
+📎 LinkedIn: [linkedin.com/in/brendaathaydes](https://www.linkedin.com/in/brendaathaydes/)  
+📱 WhatsApp: [Haz clic aquí para hablar](https://wa.me/5534991488460)
